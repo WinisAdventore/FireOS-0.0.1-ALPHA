@@ -17,4 +17,7 @@
 - chmod +x build.sh
 - ./build.s
 - <input type="checkbox" checked> пункт 
-- <input type="checkbox" checked> пункт 
+- 
+```html
+    <input type="text">
+```
