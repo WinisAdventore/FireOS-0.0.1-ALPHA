@@ -16,5 +16,5 @@
 ## Сборка
 - chmod +x build.sh
 - ./build.s
-- [ ] 
-- [x] 
+- <input type="checkbox" checked> пункт 
+- <input type="checkbox" checked> пункт 
